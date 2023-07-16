@@ -14,3 +14,7 @@ It also contains most of the main features of the normal player.
 ### Application Preview
 
 ![](asset/video-player.gif)
+
+
+### License
+This project is licensed under the MIT license.
