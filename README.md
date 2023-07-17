@@ -17,5 +17,4 @@ It also contains most of the main features of the normal player.
 
 
 ### License
-
 This project is licensed under the MIT license.
